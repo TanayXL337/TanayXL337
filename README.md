@@ -1,10 +1,8 @@
 <div align="center">
-  <h1 style="display: inline-block;">
-    Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-             alt="Animated Emoji" 
-             style="width: 30px; height: 30px; vertical-align: middle;"> 
-    I'm Tanay
-  </h1>
+  <h1>Hi! I'm Tanay</h1>
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+       alt="Animated Emoji" 
+       style="width: 50px; height: 50px; margin-top: -10px;">
 </div>
 
 
