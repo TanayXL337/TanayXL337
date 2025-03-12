@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanay</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/TanayXL337/TanayXL337/blob/output/github-snake-dark.svg)
 
 - 🔭 I’m currently working on **developing my tech stack**
 
