@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanay</h1>
+<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="30" height="30">, I'm Tanay</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
 ![snake gif](https://github.com/TanayXL337/TanayXL337/blob/output/github-contribution-grid-snake-dark.svg)
