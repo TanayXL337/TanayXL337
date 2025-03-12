@@ -1,9 +1,12 @@
-<div align="center">
-  <h1>Hi! I'm Tanay</h1>
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-       alt="Animated Emoji" 
-       style="width: 50px; height: 50px; margin-top: -10px;">
-</div>
+<h1 align="center">
+  Hi! I'm Tanay 
+  <span style="display: inline-block;">
+    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+         alt="Animated Emoji" 
+         style="width: 40px; height: 40px; margin-left: 8px; vertical-align: middle;">
+  </span>
+</h1>
+
 
 
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
